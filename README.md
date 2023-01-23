@@ -6,6 +6,9 @@
 - Interested with Studying Networks and CS.
 - I like to learn languages for traveling and eat their lovely foods! 🥪
 
+### ☁️ SNS
+- blog : naive.tistory.com
+- email : lambferret@gmail.com
 
 ### ☀️ Main stack
 - Java Spring
@@ -14,6 +17,7 @@
 - AWS
 
 ### ⭐️ Sub stack
+- ReactJS
 - Python
 - MySQL
 - GCP
@@ -23,7 +27,6 @@
 - 정보처리기사
   
 ### 🌙 Other stacks for fun
-- ReactJS
 - C# in Unity
 - Lua in WoW addon
 
