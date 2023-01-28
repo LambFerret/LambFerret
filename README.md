@@ -4,10 +4,11 @@
 - Korean 🇰🇷
 - Junior(1 year) Backend Web Developer using Java Spring.
 - Interested with studying Networks and CS.
+- Currently working on game making with LibGDX.
 - I like to learn languages for traveling around and eat their lovely foods! 🥪
 
 ### ☁️ SNS
-- blog : naive.tistory.com
+- blog : https://naive.tistory.com
 - email : lambferret@gmail.com
 
 ### ☀️ Main stack
