@@ -4,7 +4,7 @@
 - Korean 🇰🇷
 - Junior(1 year) Backend Web Developer using Java Spring.
 - Interested with studying Networks and CS.
-- Currently working on game making with ~~LibGDX.~~ UNITY 
+- Currently working on game making with ~~LibGDX.~~ UNITY (1 year)
 - I like to learn languages for traveling around and eat their lovely foods! 🥪
 
 ### ☁️ SNS
