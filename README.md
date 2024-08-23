@@ -14,8 +14,8 @@
 - email : lambferret@gmail.com
 
 ### ☀️ Main stack
-- NodeJS with ExpressJS
 - Java Spring
+- NodeJS with ExpressJS
 - MongoDB
 - AWS
 - Unity (C#)
